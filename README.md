@@ -14,9 +14,6 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prachi-01-ui&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=prachi-01-ui&icon=0&color=brightgreen)](https://visitcount.itsvg.in)
 
